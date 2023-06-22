@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "951783024365",
+    "project_id": "project-bfe45",
+    "storage_bucket": "project-bfe45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951783024365:android:994be957306ded420ecee4",
+        "android_client_info": {
+          "package_name": "syndic.project.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951783024365-brbgef41926g03k2lnd4f1cavm026veq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMRL6AIhoPqOv2V268vHsluOuSKDTJdPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951783024365-brbgef41926g03k2lnd4f1cavm026veq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
